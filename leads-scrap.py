@@ -3,7 +3,7 @@ import time
 import os
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from tempbrain import ask_brain
+from brain import ask_brain
 
 mess="""Hi [Recipient's Name],
 
