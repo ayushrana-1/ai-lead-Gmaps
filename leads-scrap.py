@@ -23,7 +23,7 @@ Why Choose My Service?
 If you're interested, just reply "YES" and I’ll send you more details and links to my already designed websites!
 
 Best regards,
-Ayush
+[Name]
 Your Website Specialist"""
 
 
